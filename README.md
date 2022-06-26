@@ -1,6 +1,4 @@
 ```bash
-Sc FANORA-XD  ✔ [work]
-
 $ rm -rf sonnovita
 
 $ apt update && apt upgrade
